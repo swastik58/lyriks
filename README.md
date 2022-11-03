@@ -25,11 +25,11 @@
 
 
 ## Build Using
--[Vite](https://vitejs.dev/)
--[Swiper](https://swiperjs.com/react)
--[Shazam Core API](https://rapidapi.com/tipsters/api/shazam-core)
--[Tailwind CSS](https://tailwindcss.com/)
--[Axios](https://www.npmjs.com/package/axios)
--[React Icons](https://react-icons.github.io/react-icons/)
+- [Vite](https://vitejs.dev/)
+- [Swiper](https://swiperjs.com/react)
+- [Shazam Core API](https://rapidapi.com/tipsters/api/shazam-core)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Axios](https://www.npmjs.com/package/axios)
+- [React Icons](https://react-icons.github.io/react-icons/)
 
 ## IF YOU LIKE THIS PROJECT, DO NOT FORGET TO STAR THIS REPOSITORY 😉
