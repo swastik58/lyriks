@@ -24,7 +24,7 @@
 ## Deployed using : [Netlify](https://www.netlify.com/)
 
 
-## Build Using
+## Build Using : 
 - [Vite](https://vitejs.dev/)
 - [Swiper](https://swiperjs.com/react)
 - [Shazam Core API](https://rapidapi.com/tipsters/api/shazam-core)
